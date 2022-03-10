@@ -200,9 +200,9 @@ canvas {
 #particles-js {
   width: 100%;
   height: 100%;
-  background-image: url("/home/ros/Downloads/particles.js-master/demo/3.png");
+  background-image: url("3.png");
   background-color: #0d0a16;
-  background-image: url("");
+/*   background-image: url(""); */
   background-size: cover;
   background-position: 50% 50%;
   background-repeat: no-repeat;
